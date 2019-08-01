@@ -1,29 +1,4 @@
 # vue-pizza-shop
+```
+## bootstarp样式，vue.js搭建的购物车商店，包含axios,vueX,vue-router,以及由firebase搭建的云数据库
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
