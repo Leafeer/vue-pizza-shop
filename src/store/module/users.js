@@ -1,8 +1,10 @@
 const state = {
   currentUser: null,
+  isLogin: false
 }
 const getters = {
   currentUser: state => state.currentUser,
+  isLogin: state => state.isLogin
 
 }
 const mutations = {
